@@ -1,0 +1,15 @@
+{
+    "name": "xujunfeng/think-orm",
+    "autoload": {
+        "psr-4": {
+            "Xujunfeng\\ThinkOrm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xujunfeng",
+            "email": "120944641@qq.com"
+        }
+    ],
+    "require": {}
+}
